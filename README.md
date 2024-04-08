@@ -2,9 +2,9 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thalesondas)
 
-![Thales GitHub stats](https://github-readme-stats.vercel.app/api?username=Thales000&show_icons=true&theme=cobalt)
+![Thales GitHub stats](https://github-readme-stats.vercel.app/api?username=thalesondas&show_icons=true&theme=cobalt)
 
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Thales000&layout=donut)](https://github.com/Thales000/github-readme-stats)
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thalesondas&layout=donut)](https://github.com/Thales000/github-readme-stats)
 
 ## Tecnologias que mais utilizo 🖳
 
